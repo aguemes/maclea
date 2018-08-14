@@ -1,2 +1,3 @@
 This is a Python project for machine learning.
 Several models will be tested, like Perceptron, ADALINE or KNN.
+The first model will be in-house Perceptron code.
